@@ -4,6 +4,11 @@
     margin: auto;
 }
 
+.hero {
+    text-align: center;
+    
+}
+
 .input-box {
     height: 40px;
     width: 100%;
